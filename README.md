@@ -17,7 +17,9 @@ Currently Running Locally:
 - Tor Proxy Server
 - Radicale (CalDav & CardDav)
 - WireGaurd VPN Server
-      
+  
+I stopped running a Minecraft server due to it being to hard on my computer  
+  
 My GPG Public key is available at --> https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc  
   
 My main languages are:  
