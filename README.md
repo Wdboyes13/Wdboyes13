@@ -2,7 +2,7 @@
 
 ## Im Wdboyes13, and I love computers  
   
-I make mostly terminal programs, and basic stuff  
+I make mostly terminal programs   
 I've been venturing into servers  
 I ❤️ Open Source & Terminal  
 
