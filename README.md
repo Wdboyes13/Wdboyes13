@@ -18,9 +18,9 @@ Currently Running Locally:
 My GPG Public key is available at --> https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc
   
 My main languages are:  
-    - Python3  
-    - HTML  
-    - Shell  
+- Python3  
+- HTML  
+- Shell  
   
 About my pins  
 - [Coding-folders](https://github.com/Wdboyes13/Coding-folders): An archive of my 2 Programming folders includes a lot of unfinished stuff  
