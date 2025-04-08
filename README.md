@@ -7,13 +7,13 @@ I've been venturing into servers
 I ❤️ Open Source & Terminal  
 
 Currently Running Locally:  
-    - IPFS Server (File Server)  
-    - Matrix Server  
-    - Web Server  
-    - Grafana System Data Collector  
-    - Discord Bot  
-    - KeyCloak Server (Authentication Server)  
-    - CFSSL Server (Personal Root CA)  
+- IPFS Server (File Server)  
+- Matrix Server  
+- Web Server  
+- Grafana System Data Collector  
+- Discord Bot  
+- KeyCloak Server (Authentication Server)  
+- CFSSL Server (Personal Root CA)  
       
 My GPG Public key is available at --> https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc
   
