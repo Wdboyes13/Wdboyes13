@@ -5,7 +5,10 @@
 I make mostly terminal programs   
 I've been venturing into servers  
 I ❤️ Open Source & Terminal  
-
+  
+You can sponsor me by sending an Interac E-Transfer to the email address on my profile (Available with participating canadian banks)  
+Or by sending some Ethereum (ETH) to 0x70e44dd44C2D8a9787858d9D3De25d1f317d36d0  
+  
 Currently Running Locally:  
 - IPFS Server (File Server)  
 - Matrix Server (End 2 End Encrypted Messaging Server)
