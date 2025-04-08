@@ -7,19 +7,19 @@ I've been venturing into servers
 I ❤️ Open Source & Terminal  
 
 Currently Running Locally:  
-    IPFS Server (File Server)  
-    Matrix Server  
-    Web Server  
-    Grafana System Data Collector  
-    Discord Bot  
-    KeyCloak Server (Authentication Server)  
-    CFSSL Server (Personal Root CA)  
+    - IPFS Server (File Server)  
+    - Matrix Server  
+    - Web Server  
+    - Grafana System Data Collector  
+    - Discord Bot  
+    - KeyCloak Server (Authentication Server)  
+    - CFSSL Server (Personal Root CA)  
       
 My GPG Public key is available at -->  
   
 My main languages are:  
-    Python3  
-    HTML  
-    Shell  
+    - Python3  
+    - HTML  
+    - Shell  
   
 https://github.com/MakiDevelops is an awesome guy  
