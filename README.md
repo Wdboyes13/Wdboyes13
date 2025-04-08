@@ -8,10 +8,10 @@ I ❤️ Open Source & Terminal
 
 Currently Running Locally:  
 - IPFS Server (File Server)  
-- Matrix Server  
-- Web Server  
-- Grafana System Data Collector  
-- Discord Bot  
+- Matrix Server (End 2 End Encrypted Messaging Server)
+- Web Server  (Using Node.JS + Express)
+- Grafana PDC (For remotely getting system info) 
+- Discord Bot (Using Discord.Py)
 - KeyCloak Server (Authentication Server)  
 - CFSSL Server (Personal Root CA)
 - tor proxy
