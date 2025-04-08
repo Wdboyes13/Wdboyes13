@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Wdboyes13/Wdboyes13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Im Wdboyes13, and I love computers  
 
-Here are some ideas to get you started:
+I make mostly terminal programs, and basic stuff  
+I've been venturing into servers  
+I ❤️ Open Source & Terminal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Running Locally:
+    IPFS Server (File Server)
+    Matrix Server
+    Web Server
+    Grafana System Data Collector
+    Discord Bot
+    KeyCloak Server (Authentication Server)
+    CFSSL Server (Personal Root CA)
+    
+My GPG Public key is available at -->
+
+My main languages are:
+    Python3
+    HTML
+    Shell
+
+https://github.com/MakiDevelops is an awesome guy
