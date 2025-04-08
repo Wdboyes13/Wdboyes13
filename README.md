@@ -13,7 +13,10 @@ Currently Running Locally:
 - Grafana System Data Collector  
 - Discord Bot  
 - KeyCloak Server (Authentication Server)  
-- CFSSL Server (Personal Root CA)  
+- CFSSL Server (Personal Root CA)
+- tor proxy
+- radicale (CalDav & CardDav)
+- WireGaurd VPN Server
       
 My GPG Public key is available at --> https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc
   
