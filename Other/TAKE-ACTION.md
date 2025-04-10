@@ -56,4 +56,4 @@ You are **NEVER** too young to take action. You can do so much no matter your ag
 
 - **Taking part in petitions** (theres no minimum age!)
 
-Our planet isn't lost - its just waiting for **YOU** ❤️🌍
+Our planet isn't lost - it's just waiting for **YOU** ❤️🌍
