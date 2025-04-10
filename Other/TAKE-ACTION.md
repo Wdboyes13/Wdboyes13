@@ -1,12 +1,12 @@
 # Key things that should 💯% be adopted in Canada
 
-### 1. Push back the voting age 📪
+## 1. Push back the voting age 📪
 
 Currently, in Canada, the **voting age is 18** and in some places like **Alberta the DRIVING AGE IS 14.**
 
 Like, think about how crazy it is that there are 14 year olds just going around in deadly machines, when they aren't even old enough to help shape the country's future.
 
-### 2. Adopt indigenous 7 generations rule and other teachings 🟠🪶
+## 2. Adopt indigenous 7 generations rule and other teachings 🟠🪶
 
 The most important rule we could follow is the **indigenous 7 generations rule**, it works like this:
 
@@ -28,7 +28,7 @@ Which could've all been prevented with the 7 generations rule.
 
 Indigenous peoples have literally been around caring for our planet, since before Canada was even "discovered" by Europe, and in **just the past 200 years**, the **actions of us**, **corporations**, and the **government** have caused **Climate Change to quickly destroy** our beloved planet. Its very possible that **lions could go extinct as soon as 2050**.
 
-### 3. Take climate action 🌊
+## 3. Take climate action 🌊
 
 The climate is a **HUGE** issue right now:
 
