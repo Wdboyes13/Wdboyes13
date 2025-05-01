@@ -39,4 +39,3 @@ About my pins
 Please check out https://github.com/MakiDevelops/orgST
 
 Unless otherwise stated, all projects under this profile are licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
-https://github.com/MakiDevelops is an awesome guy  
