@@ -26,16 +26,14 @@ I stopped running a Minecraft server due to it being to hard on my computer
 My GPG Public key is available at --> https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc  
   
 My main languages are:  
+- Java (Favourite)  
+- Shell
 - Python3  
-- Java (Still learning :D)  
-- Shell  
   
 About my pins  
-- [Coding-folders](https://github.com/Wdboyes13/Coding-folders): An archive of my 2 Programming folders includes a lot of unfinished stuff  
-- [currencyconverter](https://github.com/Wdboyes13/currencyconverter): A Python Currency Converter using current Stock Prices  
-- [taxcalc](https://github.com/Wdboyes13/taxcalc): A collection of Tax Calculator's (For canada sales tax) that I made in many Programming Languages  
-- [goonmod](https://github.com/Wdboyes13/goonmod): A mod for me and my friends minecraft server
-
-Please check out https://github.com/MakiDevelops/orgST
+- [BetterMake](https://github.com/Wdboyes13/BetterMake): A C, C++, ObjC, ObjC++ Build Tool  
+- [currencyconverter](https://github.com/Wdboyes13/currencyconverter): A currency converter using stocks in python  
+- [HomeRoom](https://github.com/MakiDevelops/homeroom): A media app, for [orgST](https://github.com/MakiDevelops/orgST)  
+- [orgST](https://github.com/MakiDevelops/orgST): A Console App  
 
 Unless otherwise stated, all projects under this profile are licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
