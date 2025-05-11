@@ -3,7 +3,7 @@
 ## Im Wdboyes13, and I love computers  
   
 I make mostly terminal programs   
-I ❤️ Java (Thank you Oracle :D)
+I ❤️ Java (Thank you Oracle :D)  
 I ❤️ Open Source & Terminal  
   
 You can sponsor me by sending an Interac E-Transfer to the email address on my profile (Available with most canadian banks)  
