@@ -14,7 +14,8 @@ My GPG Public key is available at --> https://github.com/Wdboyes13/Wdboyes13/blo
   
 My main languages are:  
 - Java (Favourite)  
-- Shell  
+- Shell
+  
 I want to learn C  
   
 About my pins  
