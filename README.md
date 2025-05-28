@@ -14,12 +14,11 @@ My GPG Public key is available at --> https://github.com/Wdboyes13/Wdboyes13/blo
   
 My main languages are:  
 - Java (Favourite)  
-- Shell
-  
-I want to learn C  
-  
+- Shell  
+- Learning C
+
 About my pins  
-- [BetterMake](https://github.com/Wdboyes13/BetterMake): A C, C++, ObjC, ObjC++ Build Tool  
+- [initRAMfs-init](https://github.com/Wdboyes13/InitRAMfs-init) - A /init for an Initial RAM Filesystem (initramfs) statically linked
 - [currencyconverter](https://github.com/Wdboyes13/currencyconverter): A currency converter using stocks in python  
 - [HomeRoom](https://github.com/MakiDevelops/homeroom): A media app, for [orgST](https://github.com/MakiDevelops/orgST)  
 - [orgST](https://github.com/MakiDevelops/orgST): A Console App  
