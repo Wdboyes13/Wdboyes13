@@ -19,6 +19,4 @@ About my pins (Currently all are somewhat active)
 - [initRAMfs-init](https://github.com/Wdboyes13/InitRAMfs-init) - A /init for an Initial RAM Filesystem (initramfs) statically linked  
 - [LibCurl-Stuff](https://github.com/Wdboyes13/LibCurl-Stuff): A file downloader in C using libcurl and libncurses  
 - [Microbit-ARM-Assembly](https://github.com/Wdboyes13/MicroBit-ARM-Assembly): Some ARM Assembly stuff for BBC Micro:Bit v2  
-- [NASM-Stuff](https://github.com/Wdboyes13/NASM-Stuff): Some stuff im working on in NASM x86/x86_64 Assembly
-
-Unless otherwise stated, all projects under this profile are licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/).
+- [NASM-Stuff](https://github.com/Wdboyes13/NASM-Stuff): Some stuff im working on in NASM x86/x86_64 Assembly  
