@@ -11,6 +11,7 @@ My GPG Public Key for encryption is available at →
 https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc  
   
 ## My Main Languages  
+- Java
 - Shell  
 - C (Favourite) — and by side effect, Assembly  
 
