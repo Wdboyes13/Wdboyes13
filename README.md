@@ -3,8 +3,8 @@
 ## Im Wdboyes13, and I love computers  
   
 I make mostly terminal programs   
-I ❤️ Java (Thank you Oracle :D)  
-I ❤️ Open Source Software & Shell (Terminal)  
+I ❤️ C and HATE C++
+I ❤️ Open Source Software  
   
 My GPG Public key for encryption is available at --> https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc  
   
