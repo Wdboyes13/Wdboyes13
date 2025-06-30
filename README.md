@@ -2,7 +2,7 @@
 
 ## Im Wdboyes13, and I love programming whatever I feel like  
   
-I make mostly terminal programs   
+I beleive that, if you have an idea, it can be made with the right skills    
 I ❤️ C and HATE C++  
 I ❤️ Open Source Software  
   
