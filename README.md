@@ -13,7 +13,7 @@ My main languages are:
 - Shell  
 - Learning C
 
-About my pins (Currently all are somewhat active)  
+About my pins (If my code scares you, go back to python)  
 - [HomeRoom](https://github.com/MakiDevelops/homeroom): A media app, for [orgST](https://github.com/MakiDevelops/orgST)  
 - [orgST](https://github.com/MakiDevelops/orgST): A Console App  
 - [libdyn](https://github.com/Wdboyes13/libdyn) - A C Library for tools using Dynamic Memory Allocation  
