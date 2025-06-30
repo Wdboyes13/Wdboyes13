@@ -5,6 +5,7 @@
 I beleive that, if you have an idea, it can be made with the right skills    
 I ❤️ C and HATE C++  
 I ❤️ Open Source Software  
+Building apples "Open Source" stuff is like trying to assemble an IKEA Bed with missing screws and instructions in french  
   
 My GPG Public key for encryption is available at --> https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc  
   
