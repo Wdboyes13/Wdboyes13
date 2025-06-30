@@ -20,4 +20,9 @@ About my pins (If my code scares you, go back to python)
 - [libdyn](https://github.com/Wdboyes13/libdyn) - A C Library for tools using Dynamic Memory Allocation  
 - [wkern](https://github.com/Wdboyes13/wkern): A Kernel/Bare Metal OS i'm making (for x86)
 - [Microbit-ARM-Assembly](https://github.com/Wdboyes13/MicroBit-ARM-Assembly): Some ARM Assembly stuff for BBC Micro:Bit v2  
-- [NASM-Stuff](https://github.com/Wdboyes13/NASM-Stuff): Some stuff im working on in NASM x86/x86_64 Assembly  
+- [NASM-Stuff](https://github.com/Wdboyes13/NASM-Stuff): Some stuff im working on in NASM x86/x86_64 Assembly
+
+"Quite frankly, even if   
+the choice of C were to do *nothing* but keep the C++ programmers out,   
+that in itself would be a huge reason to use C."  - Linus Torvalds (Creator of Linux Kernel & Git)  
+https://harmful.cat-v.org/software/c++/linus  
