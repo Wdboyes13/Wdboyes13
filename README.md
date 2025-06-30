@@ -3,7 +3,7 @@
 ## Im Wdboyes13, and I love computers  
   
 I make mostly terminal programs   
-I ❤️ C and HATE C++
+I ❤️ C and HATE C++  
 I ❤️ Open Source Software  
   
 My GPG Public key for encryption is available at --> https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc  
