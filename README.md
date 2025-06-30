@@ -9,9 +9,9 @@ I ❤️ Open Source Software
 My GPG Public key for encryption is available at --> https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc  
   
 My main languages are:  
-- Java (Favourite)  
+- Java    
 - Shell  
-- Learning C
+- C (Favourite) and as a side effect Assembly
 
 About my pins (If my code scares you, go back to python)  
 - [HomeRoom](https://github.com/MakiDevelops/homeroom): A media app, for [orgST](https://github.com/MakiDevelops/orgST)  
