@@ -15,10 +15,13 @@ My main languages are:
 - C (Favourite) and as a side effect Assembly
 
 About my pins (If my code scares you, go back to python)  
+![Made with Java not C++](https://img.shields.io/badge/Made_with_Java_NOT_C++-8A2BE2)  
 - [HomeRoom](https://github.com/MakiDevelops/homeroom): A media app, for [orgST](https://github.com/MakiDevelops/orgST)  
 - [orgST](https://github.com/MakiDevelops/orgST): A Console App  
+![Made with C not C++](https://img.shields.io/badge/Made_with_C_NOT_C++-8A2BE2)  
 - [libdyn](https://github.com/Wdboyes13/libdyn) - A C Library for tools using Dynamic Memory Allocation  
-- [wkern](https://github.com/Wdboyes13/wkern): A Kernel/Bare Metal OS i'm making (for x86)
+- [wkern](https://github.com/Wdboyes13/wkern): A Kernel/Bare Metal OS i'm making (for x86)  
+![Made with Assembly not C++](https://img.shields.io/badge/Made_with_Assembly_NOT_C++-8A2BE2)  
 - [Microbit-ARM-Assembly](https://github.com/Wdboyes13/MicroBit-ARM-Assembly): Some ARM Assembly stuff for BBC Micro:Bit v2  
 - [NASM-Stuff](https://github.com/Wdboyes13/NASM-Stuff): Some stuff im working on in NASM x86/x86_64 Assembly
 
