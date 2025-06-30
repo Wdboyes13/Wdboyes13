@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Im Wdboyes13, and I love programming whatever I feel like <sub>Or am forced to by my friend</sub>  
+## Im Wdboyes13, and I love programming whatever I feel like  
   
 I make mostly terminal programs   
 I ❤️ C and HATE C++  
