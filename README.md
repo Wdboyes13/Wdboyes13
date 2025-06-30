@@ -24,7 +24,7 @@ https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc
 - [Microbit-ARM-Assembly](https://github.com/Wdboyes13/MicroBit-ARM-Assembly) – ARM Assembly stuff for BBC micro:bit v2  
 - [NASM-Stuff](https://github.com/Wdboyes13/NASM-Stuff) – Projects I'm working on in NASM x86/x86_64 Assembly  
 
-## Some Quotes About C++ 😬
+## Some Quotes About C++
 
 > "Quite frankly, even if the choice of C were to do *nothing* but keep the C++ programmers out, that in itself would be a huge reason to use C."  
 > — **Linus Torvalds** (creator of the Linux kernel & Git)  
