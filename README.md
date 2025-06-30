@@ -10,6 +10,9 @@ Building Apple’s "Open Source" stuff is like trying to assemble an IKEA bed wi
 My GPG Public Key for encryption is available at →  
 https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc  
   
+And my GPG Public Key for Signing (Releases & Commits) is available at →  
+https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025.asc  
+  
 ## My Main Languages  
 - Java
 - Shell  
