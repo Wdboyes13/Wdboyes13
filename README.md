@@ -14,7 +14,7 @@ https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc
 - Shell  
 - C (Favourite) — and by side effect, Assembly  
 
-## About My Pins (If my code scares you, go back to Python)  
+## About My Pins (If my code scares you, go back to [Scratch](https://scratch.mit.edu))  
 
 ![Made with C not C++](https://img.shields.io/badge/Made_with_C_NOT_C++-8A2BE2)  
 - [libdyn](https://github.com/Wdboyes13/libdyn) – A C library for tools using dynamic memory allocation  
