@@ -27,9 +27,11 @@ the choice of C were to do *nothing* but keep the C++ programmers out,
 that in itself would be a huge reason to use C."  - Linus Torvalds (Creator of Linux Kernel & Git)  
   
 "There are only two things wrong with C++: The initial concept and the implementation." – Bertrand Meyer  
+
 "C++ is like jamming a helicopter inside a Miata and expecting some sort of improvement." – Drew Olbrich  
+
 "If C++ has taught me one thing, it’s this: Just because the system isconsistent doesn’t 
-`      ` mean it’s not the work of Satan." – Andrew Plotkin
+mean it’s not the work of Satan." – Andrew Plotkin
   
 "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows away your whole leg." – Bjarne Stroustrup (Creator of C++)
 
