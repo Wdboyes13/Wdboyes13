@@ -16,7 +16,11 @@ https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025.asc
 ## My Main Languages  
 - Java
 - Shell  
-- C (Favourite) — and by side effect, Assembly  
+- C (Favourite) — and by side effect, Assembly
+## Languages I hate  
+- C++  
+- I think C++  
+- C++ Again  
 
 ## About My Pins (If my code scares you, go back to [Scratch](https://scratch.mit.edu))  
 
