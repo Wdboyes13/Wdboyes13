@@ -26,11 +26,11 @@ https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025.asc
 
 ![Made with C not C++](https://img.shields.io/badge/Made_with_C_NOT_C++-8A2BE2)  
 - [libdyn](https://github.com/Wdboyes13/libdyn) – A C library for tools using dynamic memory allocation  
-- [wkern](https://github.com/Wdboyes13/wkern) – A kernel/bare-metal OS I'm making (for x86)  
+- [wkern](https://github.com/Wdboyes13/wkern) – A kernel/bare-metal OS I'm making (for x86)
+- [mygame](https://github.com/Wdboyes13/mygame) - A Game im working on  
 
 ![Made with Assembly not C++](https://img.shields.io/badge/Made_with_Assembly_NOT_C++-8A2BE2)  
 - [Microbit-ARM-Assembly](https://github.com/Wdboyes13/MicroBit-ARM-Assembly) – ARM Assembly stuff for BBC micro:bit v2  
-- [NASM-Stuff](https://github.com/Wdboyes13/NASM-Stuff) – Projects I'm working on in NASM x86/x86_64 Assembly  
 
 ## Some Quotes About C++
 
