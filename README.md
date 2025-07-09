@@ -26,7 +26,7 @@ https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025.asc
 
 ![Made with C not C++](https://img.shields.io/badge/Made_with_C_NOT_C++-8A2BE2)  
 - [libdyn](https://github.com/Wdboyes13/libdyn) – A C library for tools using dynamic memory allocation  
-- [wkern](https://github.com/Wdboyes13/wkern) – A kernel/bare-metal OS I'm making (for x86)
+- [macCOFF](https://github.com/Wdboyes13/macCOFF) – A COFF Loader/Executor on a custom ABI overtop of macOS/Linux
 - [mygame](https://github.com/Wdboyes13/mygame) - A Game im working on  
 
 ![Made with Assembly not C++](https://img.shields.io/badge/Made_with_Assembly_NOT_C++-8A2BE2)  
