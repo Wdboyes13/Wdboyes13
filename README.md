@@ -21,7 +21,7 @@ https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025.asc
 
 ## About My Pins (If my code scares you, go back to [Scratch](https://scratch.mit.edu))  
 
-- [libdyn](https://github.com/Wdboyes13/libdyn) – A C library for tools using dynamic memory allocation  
-- [macCOFF](https://github.com/Wdboyes13/macCOFF) – A COFF Loader/Executor on a custom ABI overtop of macOS/Linux
-- [mygame](https://github.com/Wdboyes13/mygame) - A Game im working on  
-- [Microbit-ARM-Assembly](https://github.com/Wdboyes13/MicroBit-ARM-Assembly) – ARM Assembly stuff for BBC micro:bit v2  
+- [mygame](https://github.com/Wdboyes13/mygame) - A Game i made, playable at [weelam.ca/game](https://weelam.ca/game/)
+- [ObjBuild](https://github.com/Wdboyes13/ObjBuild) - A minimal build system in C++
+- [GLImage](https://github.com/Wdboyes13/GLImage) - A simple image viewer in OpenGL
+- [Weelam.ca](https://github.com/Wdboyes13/Weelam.ca) - The code for my website (Minus the game, cause im to lazy for licensing)  
