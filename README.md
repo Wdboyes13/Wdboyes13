@@ -11,7 +11,8 @@ My GPG Public Key for encryption is available at →
 https://github.com/Wdboyes13/Wdboyes13/blob/main/WillPubKey.asc  
   
 And my GPG Public Key for Signing (Releases & Commits) is available at →  
-https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025.asc (Old one at https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025-old.asc)  
+https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025.asc  
+Old one at https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025-old.asc  
   
 ## My Main Languages  
 - Java
