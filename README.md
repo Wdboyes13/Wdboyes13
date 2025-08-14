@@ -25,4 +25,9 @@ Old one at https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025-old.asc
 - [mygame](https://github.com/Wdboyes13/mygame) - A Game i made, playable at [weelam.ca/game](https://weelam.ca/game/)
 - [ObjBuild](https://github.com/Wdboyes13/ObjBuild) - A minimal build system in C++
 - [GLImage](https://github.com/Wdboyes13/GLImage) - A simple image viewer in OpenGL
-- [Weelam.ca](https://github.com/Wdboyes13/Weelam.ca) - The code for my website (Minus the game, cause im to lazy for licensing)  
+- [Weelam.ca](https://github.com/Wdboyes13/Weelam.ca) - The code for my website (Minus the game, cause im to lazy for licensing)
+
+## Warning about Package IDs  
+After August 14, 2025 14:30 Pacific Daylight Time (UTC-7) I will no longer use the 'com.william' package id.  
+Instead, to confirm with standards, __ANY NEWER__ packages, will use 'ca.weelam' as the Package ID (Reverse of my registered domain, weelam.ca).  
+However, this does NOT invalidate any previous things using 'com.william'.  
