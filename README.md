@@ -22,10 +22,10 @@ Old one at https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025-old.asc
 
 ## About My Pins (If my code scares you, go back to [Scratch](https://scratch.mit.edu))  
 
-- [mygame](https://github.com/Wdboyes13/mygame) - A Game i made, playable at [weelam.ca/game](https://weelam.ca/game/)
-- [SimplePlatformer](https://github.com/Wdboyes13/SimplePlatformer) - The current game I'm working on  
+- [cxx_extensions](https://github.com/Wdboyes13/cxx_extensions) - Some C++ extensions I made  
+- [wcpu](https://github.com/Wdboyes13/wcpu) - An emulator for a custom ISA I made   
 - [GLImage](https://github.com/Wdboyes13/GLImage) - A simple image viewer in OpenGL
-- [Weelam.ca](https://github.com/Wdboyes13/Weelam.ca) - The code for my website (Minus the game, cause im to lazy for licensing)
+- [Weelam.ca](https://github.com/Wdboyes13/Weelam.ca) - The code for my website  
 
 ## Warning about Package IDs  
 After August 14, 2025 14:30 Pacific Daylight Time (UTC-7) I will no longer use the 'com.william' Package ID.  
