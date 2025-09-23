@@ -18,7 +18,10 @@ Old one at https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025-old.asc
 - Python 3  
 - Shell  
 - C  
-- C++ (Favourite)  
+- C++ (Favourite)
+- JavaScript
+- BASH
+- Learning Rust
 
 ## About My Pins (If my code scares you, go back to [Scratch](https://scratch.mit.edu))  
 
