@@ -21,12 +21,11 @@ Old one at https://github.com/Wdboyes13/Wdboyes13/blob/main/willdev2025-old.asc
 - C++ (Favourite)
 - JavaScript
 - BASH
-- Learning Rust
 
 ## About My Pins (If my code scares you, go back to [Scratch](https://scratch.mit.edu))  
 
 - [cxx_extensions](https://github.com/Wdboyes13/cxx_extensions) - Some C++ extensions I made  
-- [wcpu](https://github.com/Wdboyes13/wcpu) - An emulator for a custom ISA I made   
+- [wcpu](https://github.com/Wdboyes13/Audiplayer) - My audio player, has a GUI and a TUI  
 - [GLImage](https://github.com/Wdboyes13/GLImage) - A simple image viewer in OpenGL
 - [Weelam.ca](https://github.com/Wdboyes13/Weelam.ca) - The code for my website  
 
