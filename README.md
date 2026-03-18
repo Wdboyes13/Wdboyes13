@@ -9,11 +9,12 @@ I ❤️ Open Source Software
 My public keys are now at... https://weelam.ca/keys  
   
 ## My Main Languages  
-- Python 3  
-- Shell  
+From favourite... to least  
+- Rust
+- C++
 - C  
-- C++ (Favourite)
+- Python 3
+- BASH 
 - JavaScript
-- BASH
 - ARMv8-A Assembly
-- Rust  
+- Java
