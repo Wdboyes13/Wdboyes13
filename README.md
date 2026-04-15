@@ -17,4 +17,3 @@ From favourite... to least
 - BASH 
 - JavaScript
 - ARMv8-A Assembly
-- Java
